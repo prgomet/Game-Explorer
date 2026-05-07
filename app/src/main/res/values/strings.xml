@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Game Explorer</string>
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="about">ABOUT</string>
+    <string name="developers">DEVELOPERS</string>
+    <string name="publishers">PUBLISHERS</string>
+    <string name="platforms">PLATFORMS</string>
+    <string name="genres">GENRES</string>
+    <string name="released">RELEASED: %s</string>
+    <string name="error_no_intel">NO INTEL FOUND. PLEASE CHECK CONNECTION.</string>
+    <string name="offline_mode">OFFLINE MODE: DISPLAYING CACHED INTEL</string>
+    <string name="network_error">NETWORK ERROR: Comms link down. Check your connection.</string>
+
+    <!-- Onboarding & Settings -->
+    <string name="initializing_profile">INITIALIZING PROFILE</string>
+    <string name="start_mission">START MISSION</string>
+    <string name="select_combat_zones">SELECT YOUR COMBAT ZONES</string>
+    <string name="command_center">COMMAND CENTER</string>
+    <string name="genre_configuration">GENRE CONFIGURATION</string>
+    <string name="no_genres_detected">NO GENRES DETECTED</string>
+
+    <!-- Components -->
+    <string name="retry">RETRY</string>
+    <string name="loading_dots">LOADING…</string>
+    <string name="system_error">SYSTEM ERROR</string>
+    <string name="retry_mission">RETRY MISSION</string>
+    <string name="no_intel_found">NO INTEL FOUND</string>
+    <string name="radar_silent_desc">YOUR RADAR IS CURRENTLY SILENT.\nSELECT GENRES TO POPULATE THE MAP.</string>
+    <string name="open_command_center">OPEN COMMAND CENTER</string>
+    <string name="unknown">UNKNOWN</string>
+</resources>

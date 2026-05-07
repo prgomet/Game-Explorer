@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Game Explorer</string>
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="about">ABOUT</string>
+    <string name="developers">DEVELOPERS</string>
+    <string name="publishers">PUBLISHERS</string>
+    <string name="platforms">PLATFORMS</string>
+    <string name="genres">GENRES</string>
+    <string name="released">RELEASED: %s</string>
+    <string name="error_no_intel">NO INTEL FOUND. PLEASE CHECK CONNECTION.</string>
+    <string name="offline_mode">OFFLINE MODE: DISPLAYING CACHED INTEL</string>
+    <string name="network_error">NETWORK ERROR: Comms link down. Check your connection.</string>
+</resources>
